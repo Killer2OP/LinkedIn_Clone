@@ -1,10 +1,10 @@
-<!-- technology we are going to use -->
+ ## technology we are going to use 
 
-# react
-# react-router
-# react redux
-# react dom
-# styled components
+ **react** <br>
+ react-router <br>
+ react redux <br>
+ react dom <br>
+ styled components
 
 
 
